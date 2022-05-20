@@ -5,35 +5,49 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     
-    <title>CHEN Prime&#39;s Blog</title>
+    <title>Docker | CHEN Prime&#39;s Blog</title>
 
-    <meta name="description" content="CHEN Prime&#39;s Blog">
+    <meta name="description" content="&lt;p&gt;Docker 学习笔记 - 命令&lt;/p&gt;">
     <meta name="keywords" content="">
 
     
 
-
-
-    <meta property="og:type" content="website"/>
-    <meta property="og:title" content=""/>
-    <meta property="og:description" content=""/>
     <meta property="og:locale" content="zh-CN" />
     <meta property="og:type" content="article" />
-    <meta property="og:url" content="https://www.chenprime.xyz/index.html" />
-    <meta property="og:site_name" content="CHEN Prime" />
+    <meta property="og:title" content= "Docker | CHEN Prime&#39;s Blog"  />
+    <meta property="og:description" content= "&lt;p&gt;Docker 学习笔记 - 命令&lt;/p&gt;" />
+    <meta property="og:url" content="https://www.chenprime.xyz/2022/04/07/docker-cli" />
+    <meta property="og:site_name" content="" />
+    <meta property="article:author" content="CHEN Prime" />
     <meta property="article:publisher" content="" />
+    <meta property="og:description" content="&lt;p&gt;Docker 学习笔记 - 命令&lt;/p&gt;" />
+    <meta name="twitter:title" content="Docker | CHEN Prime&#39;s Blog"/>
+    <meta name="twitter:description" content="&lt;p&gt;Docker 学习笔记 - 命令&lt;/p&gt;"/>
     <script type="application/ld+json">
         {
-            "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "",
-            "description": "",
+            "description": "&lt;p&gt;Docker 学习笔记 - 命令&lt;/p&gt;",
+            "author": { "@type": "Person", "name": "CHEN Prime" },
+            "@type": "BlogPosting",
+            "url": "https://www.chenprime.xyz/2022/04/07/docker-cli",
             "publisher": {
-                "@type": "Organization",
-                "name": "CHEN Prime"
+            "@type": "Organization",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.chenprime.xyz/images/MESA.jpg"
             },
+            "name": "CHEN Prime"
+            },
+            "headline": "Docker | CHEN Prime&#39;s Blog",
+            "datePublished": "2022-04-07T00:26:31.482Z",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.chenprime.xyz/2022/04/07/docker-cli"
+            },
+            "@context": "http://schema.org"
         }
     </script>
+
+
 
 
     
@@ -61,7 +75,7 @@
 
 
     <script>
-        window.isPost = false
+        window.isPost = true
         window.aomori = {
             
             
@@ -140,66 +154,106 @@
         <div class="main">
             <section class="inner">
                 <section class="inner-main">
-                    <div class="index">
+                    <div class="post">
+    <article id="post-cl3dok5sj0000souq3z5l9cl1" class="article article-type-post" itemscope
+    itemprop="blogPost">
+
+    <div class="article-inner">
+
+        
+          
+        
+        
+        
+
+        
+        <header class="article-header">
+            
   
-    
-      <article
-id="post-docker-cli"
-class="article article-type-post"
->
+    <h1 class="article-title" itemprop="name">
+      Docker
+    </h1>
+  
 
-
-
-<div class="article-inner">
-    
-    <div class="article-feature">
-        <a href="/2022/04/07/docker-cli">
-            <img
-                src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3C/svg%3E"
-                data-src="/images/docker.png"
-                alt="item.title"
-                class="lazy"
-            />
-        </a>
-    </div>
-    
-
-    <div class="article-body">
-    <header class="article-title">
-        <a href="/2022/04/07/docker-cli">Docker</a>
-    </header>
-    <div class="article-entry post-inner-html">
+        </header>
         
-        <p>Docker 学习笔记 - 命令</p>
-        
-    </div>
-    </div>
 
-    <div class="article-badge">
-        
-        
-    </div>
+        <div class="article-more-info article-more-info-post hairline">
 
-</div>
-
-<footer class="article-footer">
-    <div class="article-more-info">
-    <div class="article-date">
+            <div class="article-date">
   <time datetime="2022-04-07T00:26:31.482Z" itemprop="datePublished">2022-04-07</time>
 </div>
-    
-    
+
+            
+
+            
+
+            
+
+        </div>
+
+        <div class="article-entry post-inner-html hairline" itemprop="articleBody">
+            <p>Docker 学习笔记 - 命令</p>
+<span id="more"></span>
+<p><img src="/images/docker-cli1.png" alt="image"><br>docker volume [COMMAND]</p>
+<ul>
+<li>create            创建一个数据卷</li>
+<li>inspect          显示一个或多个数据卷（volume）的详细信息</li>
+<li>ls                     列出所有 volume</li>
+<li>prune             删除目前没人使用的数据卷 volume</li>
+<li>rm                   删除指定 volume</li>
+</ul>
+
+        </div>
+
     </div>
-</footer>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    <section class="share">
+        <div class="share-title">分享</div>
+        <a class="share-item" target="_blank"
+            href="https://twitter.com/share?text=Docker - CHEN Prime's Blog&url=https://www.chenprime.xyz/2022/04/07/docker-cli">
+            <box-icon type='logo' name='twitter'></box-icon>
+        </a>
+        <a class="share-item" target="_blank"
+            href="https://www.facebook.com/sharer.php?title=Docker - CHEN Prime's Blog&u=https://www.chenprime.xyz/2022/04/07/docker-cli">
+            <box-icon name='facebook-square' type='logo' ></box-icon>
+        </a>
+        <!-- <a class="share-item" target="_blank"
+            href="https://service.weibo.com/share/share.php?title=Docker - CHEN Prime's Blog&url=https://www.chenprime.xyz/2022/04/07/docker-cli&pic=">
+            <div class="n-icon n-icon-weibo"></div>
+        </a> -->
+    </section>
 
 </article>
 
-    
-  
 
-  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </div>
-
                 </section>
             </section>
 
@@ -211,6 +265,12 @@ class="article article-type-post"
 <div class="widget" id="widget">
     
       
+  <div class="widget-wrap">
+    <div class="widget-inner">
+      <div class="toc post-toc-html"></div>
+    </div>
+  </div>
+
     
       
 
