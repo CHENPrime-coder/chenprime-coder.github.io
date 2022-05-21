@@ -13,7 +13,7 @@
 
   <url>
     <loc>https://www.chenprime.xyz/</loc>
-    <lastmod>2022-05-20</lastmod>
+    <lastmod>2022-05-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -21,7 +21,7 @@
   
   <url>
     <loc>https://www.chenprime.xyz/tags/%E8%BF%90%E7%BB%B4/</loc>
-    <lastmod>2022-05-20</lastmod>
+    <lastmod>2022-05-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -30,7 +30,7 @@
   
   <url>
     <loc>https://www.chenprime.xyz/categories/docker/</loc>
-    <lastmod>2022-05-20</lastmod>
+    <lastmod>2022-05-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
