@@ -1,4 +1,4 @@
-https://www.chenprime.xyz/2022/04/07/docker-cli/
+https://www.chenprime.xyz/docker-cli-1/
 https://www.chenprime.xyz/
 https://www.chenprime.xyz/tags/%E8%BF%90%E7%BB%B4/
 https://www.chenprime.xyz/categories/docker/
