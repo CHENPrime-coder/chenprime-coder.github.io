@@ -1,19 +1,7 @@
-# robots.txt generated at http://tool.chinaz.com/robots/
-User-agent: googlebot-image
-Disallow: /
-User-agent: googlebot-mobile
-Disallow: /
-User-agent: yahoo-mmcrawler
-Disallow: /
-User-agent: yahoo-blogs/v3.9
-Disallow: /
-User-agent: psbot
-Disallow: /
 User-agent: *
-Disallow:
-Crawl-delay: 120
-Disallow: /img/
-Disallow: /js/
-Disallow: /images/
-Disallow: /css/
-Sitemap: https://www.chenprime.xyz/sitemap.xml
+User-agent: Allow: /
+Allow: /archives/
+Allow: /categories/
+Allow: /tags/
+Allow: /about/
+Sitemap: http://www.chenprime.xyz/sitemap.xml
