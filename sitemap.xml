@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.chenprime.xyz/live2d_models/live2d-widget-model-hijiki/assets/hijiki.pose.json</loc>
+    
+    <lastmod>2022-05-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.chenprime.xyz/live2d_models/live2d-widget-model-hijiki/assets/hijiki.model.json</loc>
+    
+    <lastmod>2022-05-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.chenprime.xyz/live2d_models/live2d-widget-model-hijiki/package.json</loc>
+    
+    <lastmod>2022-05-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.chenprime.xyz/elasticsearch-java/</loc>
     
     <lastmod>2022-05-22</lastmod>
@@ -22,7 +49,7 @@
 
   <url>
     <loc>https://www.chenprime.xyz/</loc>
-    <lastmod>2022-05-23</lastmod>
+    <lastmod>2022-05-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -30,14 +57,14 @@
   
   <url>
     <loc>https://www.chenprime.xyz/tags/%E8%BF%90%E7%BB%B4/</loc>
-    <lastmod>2022-05-23</lastmod>
+    <lastmod>2022-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.chenprime.xyz/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/</loc>
-    <lastmod>2022-05-23</lastmod>
+    <lastmod>2022-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -46,14 +73,14 @@
   
   <url>
     <loc>https://www.chenprime.xyz/categories/docker/</loc>
-    <lastmod>2022-05-23</lastmod>
+    <lastmod>2022-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.chenprime.xyz/categories/elasticsearch/</loc>
-    <lastmod>2022-05-23</lastmod>
+    <lastmod>2022-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

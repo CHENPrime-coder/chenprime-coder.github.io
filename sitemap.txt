@@ -1,3 +1,6 @@
+https://www.chenprime.xyz/live2d_models/live2d-widget-model-hijiki/assets/hijiki.pose.json
+https://www.chenprime.xyz/live2d_models/live2d-widget-model-hijiki/assets/hijiki.model.json
+https://www.chenprime.xyz/live2d_models/live2d-widget-model-hijiki/package.json
 https://www.chenprime.xyz/elasticsearch-java/
 https://www.chenprime.xyz/docker-cli-1/
 https://www.chenprime.xyz/
