@@ -56,14 +56,14 @@
 
   
   <url>
-    <loc>https://www.chenprime.xyz/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/</loc>
+    <loc>https://www.chenprime.xyz/tags/%E8%BF%90%E7%BB%B4/</loc>
     <lastmod>2022-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.chenprime.xyz/tags/%E8%BF%90%E7%BB%B4/</loc>
+    <loc>https://www.chenprime.xyz/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/</loc>
     <lastmod>2022-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -72,14 +72,14 @@
 
   
   <url>
-    <loc>https://www.chenprime.xyz/categories/elasticsearch/</loc>
+    <loc>https://www.chenprime.xyz/categories/docker/</loc>
     <lastmod>2022-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.chenprime.xyz/categories/docker/</loc>
+    <loc>https://www.chenprime.xyz/categories/elasticsearch/</loc>
     <lastmod>2022-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
