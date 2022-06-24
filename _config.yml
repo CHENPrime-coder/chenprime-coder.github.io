@@ -1,0 +1,111 @@
+title: CHEN Prime's Blog
+keywords: CHENPrime's Blog, CHENPrime的博客, CHENPrime, 博客, Blog, 个人博客, CHENPRIME, hexo
+description: CHENPrime's Blog, CHENPrime的博客, CHENPrime, 博客, Blog, 个人博客, CHENPRIME, hexo
+author: CHEN Prime
+language: zh-CN
+favicon: favicon.ico
+url: https://www.chenprime.xyz
+root: /
+permalink: /:title/
+pretty_urls:
+  trailing_index: true
+  trailing_html: true
+baidu_url_submit:
+  count: 1               # 提交最新的多少个链接
+  host: www.chenprime.xyz    # 在百度站长平台中添加的域名
+  token: a6iMiHpNaIWyKdfx      # 秘钥
+  path: baidu_urls.txt   # 文本文档的地址， 新链接会保存在此文本文档里
+source_dir: source
+public_dir: public
+tag_dir: tags
+archive_dir: archives
+category_dir: categories
+code_dir: downloads/code
+i18n_dir: ':lang'
+skip_render: null
+new_post_name: ':title.md'
+default_layout: post
+titlecase: true
+external_link:
+  enable: true
+  field: site
+  exclude: ''
+filename_case: 0
+render_drafts: false
+post_asset_folder: true
+relative_link: false
+future: true
+highlight:
+  enable: true
+  line_number: true
+  auto_detect: false
+  tab_replace: ''
+  wrap: true
+  hljs: true
+prismjs:
+  enable: false
+  preprocess: true
+  line_number: true
+  tab_replace: ''
+index_generator:
+  path: ''
+  per_page: 10
+  order_by: '-date'
+default_category: uncategorized
+category_map: null
+tag_map: null
+meta_generator: true
+date_format: YYYY-MM-DD
+time_format: HH:mm:ss
+updated_option: mtime
+per_page: 10
+pagination_dir: page
+theme: icarus
+deploy:
+  - type: git
+    # chenprime-coder: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@
+    repo: https://github.com/CHENPrime-coder/chenprime-coder.github.io.git
+    branch: gh-pages
+#baidusitemap:
+#  path: baidusitemap.xml
+#hexo_seo_autopush:
+#  baidu:
+#    enable: true
+#    count: 100
+#  bing:
+#    enable: true
+#    count: 10
+#aomori_menu:
+#  主页: /
+#  归档: /archives
+#sidebar: true
+#aomori_logo: /images/MESA.jpg
+#aomori_social:
+#  - icon: github
+#    type: logo
+#    url: https://github.com/CHENPrime-coder
+# gitalk:
+#   enable: false
+#   admin: CHENPrime-coder
+#   owner: CHENPrime-coder
+#   repo: chenprime-coder.github.io
+#   clientID: a33545aef138d9596e70
+#   clientSecret: 62461947f47b3e51e7fd2160a504fef6f1ba9630  
+live2d:
+  enable: true
+  scriptFrom: local
+  pluginRootPath: live2dw/ # 插件在站点上的根目录(相对路径)
+  pluginJsPath: lib/ # 脚本文件相对与插件根目录路径
+  pluginModelPath: assets/ # 模型文件相对与插件根目录路径
+  tagMode: false # 标签模式, 是否仅替换 live2dtag标签而非插入到所有页面中
+  log: false 
+  model:
+    use: live2d-widget-model-hijiki
+  display:
+    position: left
+    width: 150
+    height: 300
+  mobile:
+    show: true # 是否在移动设备上显示
+  react:
+    opacity: 1

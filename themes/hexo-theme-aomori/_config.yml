@@ -1,0 +1,9 @@
+version: 1646451311888
+language: cn
+aomori_widgets:
+  - toc
+  - category
+  - tag
+  - recent_posts
+  - archive
+favicon: ./images/favicon.ico
