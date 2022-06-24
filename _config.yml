@@ -11,8 +11,8 @@ pretty_urls:
   trailing_index: true
   trailing_html: true
 baidu_url_submit:
-  count: 1               # 提交最新的多少个链接
-  host: www.chenprime.xyz    # 在百度站长平台中添加的域名
+  count: 10               # 提交最新的多少个链接
+  host: vercel.chenprime.xyz    # 在百度站长平台中添加的域名
   token: a6iMiHpNaIWyKdfx      # 秘钥
   path: baidu_urls.txt   # 文本文档的地址， 新链接会保存在此文本文档里
 source_dir: source
@@ -63,12 +63,11 @@ pagination_dir: page
 theme: icarus
 deploy:
   - type: git
-    # chenprime-coder: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@
     repo: https://github.com/CHENPrime-coder/chenprime-coder.github.io.git
     branch: gh-pages
-#baidusitemap:
-#  path: baidusitemap.xml
-#hexo_seo_autopush:
+baidusitemap:
+ path: baidusitemap.xml
+# hexo_seo_autopush:
 #  baidu:
 #    enable: true
 #    count: 100
