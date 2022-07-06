@@ -1,88 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
   <url>
-    <loc>https://vercel.chenprime.xyz/live2d_models/live2d-widget-model-hijiki/assets/hijiki.pose.json</loc>
-    
-    <lastmod>2022-05-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <loc>https://www.chenprime.xyz//spring-boot-starter-mail/</loc>
+    <lastmod>2022-07-06</lastmod>
   </url>
-  
   <url>
-    <loc>https://vercel.chenprime.xyz/live2d_models/live2d-widget-model-hijiki/assets/hijiki.model.json</loc>
-    
-    <lastmod>2022-05-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <loc>https://www.chenprime.xyz//z-chat-1/</loc>
+    <lastmod>2022-06-30</lastmod>
   </url>
-  
   <url>
-    <loc>https://vercel.chenprime.xyz/live2d_models/live2d-widget-model-hijiki/package.json</loc>
-    
-    <lastmod>2022-05-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://vercel.chenprime.xyz/elasticsearch-java/</loc>
-    
+    <loc>https://www.chenprime.xyz//elasticsearch-java/</loc>
     <lastmod>2022-05-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
-  
   <url>
-    <loc>https://vercel.chenprime.xyz/docker-cli-1/</loc>
-    
+    <loc>https://www.chenprime.xyz//docker-cli-1/</loc>
     <lastmod>2022-05-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
-  
-
-  <url>
-    <loc>https://vercel.chenprime.xyz/</loc>
-    <lastmod>2022-06-24</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-
-  
-  <url>
-    <loc>https://vercel.chenprime.xyz/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/</loc>
-    <lastmod>2022-06-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://vercel.chenprime.xyz/tags/%E8%BF%90%E7%BB%B4/</loc>
-    <lastmod>2022-06-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-
-  
-  <url>
-    <loc>https://vercel.chenprime.xyz/categories/elasticsearch/</loc>
-    <lastmod>2022-06-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://vercel.chenprime.xyz/categories/docker/</loc>
-    <lastmod>2022-06-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-</urlset>
+</urlset> 

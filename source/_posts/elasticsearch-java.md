@@ -1,12 +1,13 @@
 ---
 title: SpringBoot使用elasticsearch-java8.1.2客户端
-cover: /covers/GhostKnife1.jpg
+cover: /covers/GOSTBLADE1.jpg
 updated: 2022-05-22 19:14:22
 id: 000002
 categories:
-- elasticsearch
+- java
 tags:
-- 微服务
+- elasticsearch
+- springboot
 toc: true
 ---
 由于自己在学**elasticsearch-java**客户端的8.1.2版本的时候由于网上教程很少，学的很吃力。所以决定自己写一篇博客来记录一下。

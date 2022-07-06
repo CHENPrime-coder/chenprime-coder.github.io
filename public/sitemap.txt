@@ -1,3 +1,5 @@
+https://www.chenprime.xyz/spring-boot-starter-mail/
+https://www.chenprime.xyz/z-chat-1/
 https://www.chenprime.xyz/live2d_models/live2d-widget-model-hijiki/assets/hijiki.pose.json
 https://www.chenprime.xyz/live2d_models/live2d-widget-model-hijiki/assets/hijiki.model.json
 https://www.chenprime.xyz/live2d_models/live2d-widget-model-hijiki/package.json
@@ -5,6 +7,9 @@ https://www.chenprime.xyz/elasticsearch-java/
 https://www.chenprime.xyz/docker-cli-1/
 https://www.chenprime.xyz/
 https://www.chenprime.xyz/tags/%E8%BF%90%E7%BB%B4/
-https://www.chenprime.xyz/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/
+https://www.chenprime.xyz/tags/elasticsearch/
+https://www.chenprime.xyz/tags/springboot/
+https://www.chenprime.xyz/tags/%E9%A1%B9%E7%9B%AE/
 https://www.chenprime.xyz/categories/docker/
-https://www.chenprime.xyz/categories/elasticsearch/
+https://www.chenprime.xyz/categories/java/
+https://www.chenprime.xyz/categories/project/
